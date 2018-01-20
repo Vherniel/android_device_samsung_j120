@@ -1,5 +1,4 @@
-
-Device Tree For Samsung Galaxy J1 (2016)
+Device Tree Config For J120F
 ============================================
 
 Basic   | Spec Sheet
